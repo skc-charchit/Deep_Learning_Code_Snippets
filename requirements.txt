@@ -1,0 +1,12 @@
+# Jupyter environment
+ipykernel
+jupyter
+
+# Core libraries
+numpy
+pandas
+seaborn
+scikit-learn
+
+matplotlib      # for plotting
+tqdm            # for progress bars in training loops
