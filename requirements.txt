@@ -10,3 +10,5 @@ scikit-learn
 
 matplotlib      # for plotting
 tqdm            # for progress bars in training loops
+torchsummary
+torch           # PyTorch for deep learning
