@@ -7,6 +7,8 @@ numpy
 pandas
 seaborn
 scikit-learn
+xgboost
+nltk
 
 matplotlib      # for plotting
 tqdm            # for progress bars in training loops
@@ -16,3 +18,7 @@ torchvision
 opencv-python
 pillow
 transformers
+
+accelerate
+datasets
+bertviz
